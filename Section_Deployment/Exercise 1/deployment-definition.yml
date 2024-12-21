@@ -9,7 +9,7 @@
 #           AFTER
 # ------------------------------
 
-apiVersion:
-kind:
-metadata:
-spec:
+apiVersion: 0.1
+kind: work
+metadata: information
+spec: not found
